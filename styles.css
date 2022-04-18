@@ -1,0 +1,20 @@
+body {
+    margin: 0px;
+    font-family: 'Lobster', cursive;
+    font-size: 1.5em;
+    text-align: center;
+    background: linear-gradient(to right, black, white);
+    color: blue;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+
+.colorButtons {
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
